@@ -44,7 +44,7 @@ TWe1v3@sec-ops:~$ cat identity.txt
 ## ◈ stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TWe1v3/TWe1v3/main/github-metrics.svg" alt="metrics" />
+  <img src="https://raw.githubusercontent.com/TWe1v3/TWe1v3/main/github-metrics.svg?v=2" alt="metrics" />
 </div>
 
 ## ◈ ops · 项目矩阵
