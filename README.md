@@ -44,8 +44,7 @@ TWe1v3@sec-ops:~$ cat identity.txt
 ## ◈ stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TWe1v3&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5A0&icon_color=00E5A0&text_color=C9D1D9" alt="github stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWe1v3&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5A0&text_color=C9D1D9" alt="top languages" />
+  <img src="https://raw.githubusercontent.com/TWe1v3/TWe1v3/main/github-metrics.svg" alt="metrics" />
   <br/>
   <img src="https://streak-stats.demolab.com/?user=TWe1v3&hide_border=true&background=0D1117&ring=00E5A0&fire=00E5A0&currStreakLabel=00E5A0&sideLabels=8B949E&dates=8B949E" alt="streak stats" />
 </div>
@@ -70,10 +69,17 @@ TWe1v3@sec-ops:~$ ./now.sh
 [learning]  agent 编排 · 提示工程 · 威胁情报自动化
 ```
 
-## ◈ trophy
+## ◈ signal
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TWe1v3&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="trophies" />
+  <img src="https://img.shields.io/github/followers/TWe1v3?style=for-the-badge&logo=github&color=00E5A0&labelColor=0D1117" alt="followers" />
+  <img src="https://img.shields.io/github/repos/TWe1v3?style=for-the-badge&logo=github&color=00E5A0&labelColor=0D1117" alt="repos" />
+  <img src="https://img.shields.io/github/stars/TWe1v3?style=for-the-badge&logo=github&color=FFD700&labelColor=0D1117" alt="stars" />
+  <img src="https://img.shields.io/github/forks/TWe1v3?style=for-the-badge&logo=github&color=FFD700&labelColor=0D1117" alt="forks" />
+  <img src="https://img.shields.io/github/commits/TWe1v3?style=for-the-badge&logo=github&color=00E5A0&labelColor=0D1117" alt="commits" />
+  <img src="https://img.shields.io/github/issues/TWe1v3?style=for-the-badge&logo=github&color=00E5A0&labelColor=0D1117" alt="issues" />
+  <img src="https://img.shields.io/github/issues-pr/TWe1v3?style=for-the-badge&logo=github&color=00E5A0&labelColor=0D1117" alt="pull requests" />
+  <img src="https://img.shields.io/github/watchers/TWe1v3?style=for-the-badge&logo=github&color=00E5A0&labelColor=0D1117" alt="watchers" />
 </div>
 
 ## ◈ contribution snake
@@ -100,5 +106,5 @@ TWe1v3@sec-ops:~$ ./now.sh
 <br/>
 
 <div align="center">
-  <sub>⚡ living doc · snake 由 <code>.github/workflows/snake.yml</code> 每日自动生成</sub>
+  <sub>⚡ living doc · metrics 与 snake 由 <code>.github/workflows/</code> 每晚自动刷新</sub>
 </div>
