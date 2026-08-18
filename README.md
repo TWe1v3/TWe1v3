@@ -73,13 +73,16 @@ TWe1v3@sec-ops:~$ ./now.sh
 
 <div align="center">
   <img src="https://img.shields.io/github/followers/TWe1v3?style=for-the-badge&logo=github&color=00E5A0&labelColor=0D1117" alt="followers" />
-  <img src="https://img.shields.io/github/repos/TWe1v3?style=for-the-badge&logo=github&color=00E5A0&labelColor=0D1117" alt="repos" />
-  <img src="https://img.shields.io/github/stars/TWe1v3?style=for-the-badge&logo=github&color=FFD700&labelColor=0D1117" alt="stars" />
-  <img src="https://img.shields.io/github/forks/TWe1v3?style=for-the-badge&logo=github&color=FFD700&labelColor=0D1117" alt="forks" />
-  <img src="https://img.shields.io/github/commits/TWe1v3?style=for-the-badge&logo=github&color=00E5A0&labelColor=0D1117" alt="commits" />
-  <img src="https://img.shields.io/github/issues/TWe1v3?style=for-the-badge&logo=github&color=00E5A0&labelColor=0D1117" alt="issues" />
-  <img src="https://img.shields.io/github/issues-pr/TWe1v3?style=for-the-badge&logo=github&color=00E5A0&labelColor=0D1117" alt="pull requests" />
-  <img src="https://img.shields.io/github/watchers/TWe1v3?style=for-the-badge&logo=github&color=00E5A0&labelColor=0D1117" alt="watchers" />
+  <img src="https://img.shields.io/github/stars/TWe1v3?style=for-the-badge&logo=github&color=FFD700&labelColor=0D1117&label=total%20stars" alt="total stars" />
+  <img src="https://img.shields.io/github/last-commit/TWe1v3/TWe1v3?style=for-the-badge&logo=github&color=00E5A0&labelColor=0D1117&label=profile%20updated" alt="profile updated" />
+  <br/>
+  <img src="https://img.shields.io/github/stars/TWe1v3/yarb?style=for-the-badge&logo=github&color=FFD700&labelColor=0D1117&label=yarb%20stars" alt="yarb stars" />
+  <img src="https://img.shields.io/github/watchers/TWe1v3/yarb?style=for-the-badge&logo=github&color=00E5A0&labelColor=0D1117&label=yarb%20watchers" alt="yarb watchers" />
+  <img src="https://img.shields.io/github/forks/TWe1v3/yarb?style=for-the-badge&logo=github&color=00E5A0&labelColor=0D1117&label=yarb%20forks" alt="yarb forks" />
+  <img src="https://img.shields.io/github/issues/TWe1v3/yarb?style=for-the-badge&logo=github&color=00E5A0&labelColor=0D1117&label=yarb%20issues" alt="yarb issues" />
+  <br/>
+  <img src="https://img.shields.io/github/stars/TWe1v3/Feishu-card-strong?style=for-the-badge&logo=github&color=FFD700&labelColor=0D1117&label=feishu--card%20stars" alt="feishu-card stars" />
+  <img src="https://img.shields.io/github/license/TWe1v3/mission-mode-framework?style=for-the-badge&logo=github&color=BC52EE&labelColor=0D1117&label=mission--mode%20license" alt="mission-mode license" />
 </div>
 
 ## ◈ contribution snake
