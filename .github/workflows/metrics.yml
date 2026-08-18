@@ -21,3 +21,5 @@ jobs:
           filename: github-metrics.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           base: "header,about,stars,activity,community,metadata"
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year

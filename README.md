@@ -45,8 +45,6 @@ TWe1v3@sec-ops:~$ cat identity.txt
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/TWe1v3/TWe1v3/main/github-metrics.svg" alt="metrics" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=TWe1v3&hide_border=true&background=0D1117&ring=00E5A0&fire=00E5A0&currStreakLabel=00E5A0&sideLabels=8B949E&dates=8B949E&v=3" alt="streak stats" />
 </div>
 
 ## ◈ ops · 项目矩阵
