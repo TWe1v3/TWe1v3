@@ -23,8 +23,6 @@
 ```text
 TWe1v3@sec-ops:~$ cat identity.txt
 > 安全研究员 × AI Agent 构建者
-> 白天写 agent，晚上追 CVE
-> 把重复劳动交给 agent，把判断留给自己
 > motto: fighting 🚩
 ```
 
